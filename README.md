@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emilio h. corrêa" target="blank">emilio h. corrêa</a>
-<a href="https://instagram.com/@ehcorre.js" target="blank">emilio h. corrêa</a>
+<a href="https://linkedin.com/in/emilio h. corrêa" target="blank">linkedin</a>
+<a href="https://instagram.com/@ehcorre.js" target="blank">instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

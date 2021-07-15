@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Strapi, GraphQL and Tests**
 
-- ⚡ Fun fact **Diamond 3 in Valorant :)**
+- ⚡ Fun fact **Diamond 3 in Valorant &nbsp; <img src="https://img.icons8.com/color/452/valorant.png" width="15" />**
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/emilio-h-corr%C3%AAa-75979610a/">
@@ -19,7 +19,6 @@
   <a href="https://instagram.com/ehcorrea.js">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>

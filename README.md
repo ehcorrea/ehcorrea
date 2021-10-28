@@ -8,7 +8,7 @@
   A front-end developer from  Brazil.
 </p>
 
-- 🌱 I’m currently learning **Nextjs, Strapi, GraphQL and Tests**
+- 🌱 I’m currently learning **Nextjs, RXJS and Tests**
 
 - ⚡ Fun fact **Imortal in Valorant &nbsp; <img src="https://img.icons8.com/color/452/valorant.png" width="15" />**
 

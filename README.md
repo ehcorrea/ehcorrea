@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nextjs, RXJS and Tests**
 
-- ⚡ Fun fact **Peak Rank Immortal 2 in Valorant &nbsp; <img src="https://img.icons8.com/color/452/valorant.png" width="15" />**
+- ⚡ Fun fact **[Peak Rank Immortal 2 in Valorant &nbsp;<img src="https://img.icons8.com/color/452/valorant.png" width="15" />](https://tracker.gg/valorant/profile/riot/MC%20EHC%20do%20CWB%23777/overview?season=all)**
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/emilio-h-corr%C3%AAa-75979610a/">

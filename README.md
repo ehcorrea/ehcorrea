@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- ⚡ Fun fact **[Peak Rank Immortal 2 in Valorant &nbsp;<img src="https://img.icons8.com/color/452/valorant.png" width="15" />](https://tracker.gg/valorant/profile/riot/Fio%20Descascado%23777/overview?season=all)**
+- ⚡ Fun fact **[Peak Rank Immortal 2 in Valorant &nbsp;<img src="https://img.icons8.com/color/452/valorant.png" width="15" />](https://tracker.gg/valorant/profile/riot/Zorro%20do%20Asfalto%237777/overview)**
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/emilio-h-corr%C3%AAa-75979610a/">

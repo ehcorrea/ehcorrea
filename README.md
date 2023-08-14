@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/emilio-h-corr%C3%AAa-75979610a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ehcorrea.js">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>

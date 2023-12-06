@@ -8,7 +8,7 @@
   A front-end developer from  Brazil.
 </p>
 
-- 🌱 I’m currently learning **Strapi and Deploy Services**
+- 🌱 I’m currently learning **Strapi** and **Deploy Services**
 
 - ⚡ Fun fact **[Peak Rank Immortal 2 in Valorant &nbsp;<img src="https://img.icons8.com/color/452/valorant.png" width="15" />](https://tracker.gg/valorant/profile/riot/Zorro%20do%20Asfalto%237777/overview)**
 

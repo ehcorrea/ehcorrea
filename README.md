@@ -15,7 +15,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/emilio-h-corr%C3%AAa-75979610a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align='center'>
@@ -24,24 +24,23 @@
 
 <p align='center'>
   👨‍💻 Some Techs <br/><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/react_native-242526?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/expo-2f3237.svg?logo=expo&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=red" />
+  <img src="https://img.shields.io/badge/testing_library-white?style=for-the-badge&logo=testing-library&logoColor=red" />
 </p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
+  <img src="https://shields.io/badge/MacBook-Pro-9cf.svg?logo=Apple&style=for-the-badge&logoColor=white" />
+  <img src="https://shields.io/badge/M3-Pro-9cf.svg?logo=Apple&style=for-the-badge&logoColor=white" />
+  <img src="https://shields.io/badge/RAM-18GB-9cf.svg?logo=Apple&style=for-the-badge&logoColor=white" />
+</p>
+
+<p align='center'>
+  💻 Gamer setup<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
